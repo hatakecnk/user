@@ -28,7 +28,6 @@ $flash="\033[30;1m╔═══════════════════�
 ║[33;1m➢ Email  : febryafriansyah@programmer.net [30;1m║
 ║[34;1m➣ Website: http://hatakecnk.noads.biz     [30;1m║
 ║[37;1m➢ Github : https://github.com/hatakecnk   [30;1m║
-║ [36;1m   Kode Undangan Saya : F5h0u9SLOq       [30;1m║
 ╚══════════════════════════════════════════╝[32;1m";
 $stat_flash=true;
 ?>
