@@ -42,7 +42,7 @@ $yogov="\033[30;1m╔═══════════════════�
 ║[31;1m➢ Author : Febry [ xNot_Found ]              [30;1m║
 ║[32;1m➣ Contact: +62823-8637-2115                  [30;1m║
 ║[33;1m➢ Email  : febryafriansyah@programmer.net    [30;1m║
-║[34;1m➣ Website: http://hatakecnk.noads.biz   gb    [30;1m║
+║[34;1m➣ Website: http://hatakecnk.noads.biz        [30;1m║
 ║[37;1m➢ Github : https://github.com/hatakecnk      [30;1m║
 ║ [36;1m     Kode Undangan Saya : 1811502789        [30;1m║
 ╚═════════════════════════════════════════════╝";
